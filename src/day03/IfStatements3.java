@@ -24,4 +24,4 @@ public class IfStatements3 {
         if (girilenSayi%5==0) System.out.println("Bes ile bolunebilen sayi");
     }
     }
-}
+
